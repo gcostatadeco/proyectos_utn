@@ -1,0 +1,1 @@
+hola esta es la primera vesion de un programa que simulare hacer y vincular con git.
