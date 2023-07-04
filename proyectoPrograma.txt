@@ -1,1 +1,12 @@
 hola esta es la primera vesion de un programa que simulare hacer y vincular con git.
+
+he podido solucionar algunos problemas, borrando definitivamente el repo remoto.
+tuve un problema con las ramas ya que por defolt en el bash me tomaba la rama secundaria..
+lo solucione cambiando la rama por defoult y borrando la ex principal.
+
+ahora intentare poner el arvhivo txt en una rama secundaria. para aplicar merge
+
+
+
+Para hacer un merge nos situamos en una rama, en este caso la "master", y decimos con qué otra rama se debe fusionar el código. El siguiente comando, lanzado desde la rama "master", permite fusionarla con la rama "experimental".26 ene 2022
+
